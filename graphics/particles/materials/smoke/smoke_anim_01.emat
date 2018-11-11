@@ -1,0 +1,9 @@
+material "Graphics/Particles/materials/smoke/smoke_anim_01.emat": ParticleSprite
+{
+	AlbedoMap "{91F68C1BFB35C2A2}Graphics/Particles/sprites/smoke_anim_01.edds"
+	BlendMode 1
+	TileU 8
+	TileV 5
+	Softness 2
+}
+

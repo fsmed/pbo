@@ -1,0 +1,41 @@
+EffectDef {
+ Emitors {
+  EmitorDef emitor1 {
+   ShapeType Box
+   ShapeSize 0 0 0
+   MaxNum 999
+   BirthRate 20
+   BirthRateRND 0
+   Angles 0 0 90
+   Material "{8E25684854DAB008}Graphics/Particles/materials/smoke/steam_small_cook_01.emat"
+   SizeMultiplier 1
+   SizeRND 1
+   RandomRotDir 1
+   RotMultiplier 90
+   VelAngle 0
+   RandomAngle 1
+   Sort 0
+   Velocity 2
+   VelocityRND 0
+   AirResistance 1
+   Wind 1
+   AnimOnce 0
+   AnimFPS 30
+   LifetimeByAnim 0
+   LifeTime 0.5
+   LifeTimeRND 2
+   Color {
+    0 0.3038 0.3228 0.2911 1 0.2785 0.2722 0.2658
+   }
+   Alpha {
+    0 0.10759 0.37574 0.10127 1 0
+   }
+   RotationSpeed {
+    0 1 1 1
+   }
+   Size {
+    0 0.03165 0.18824 0.53797 1 1
+   }
+  }
+ }
+}

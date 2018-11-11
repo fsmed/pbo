@@ -1,0 +1,52 @@
+EffectDef {
+ MinFPS 30
+ Emitors {
+  EmitorDef barrel {
+   ShapeType Box
+   ShapeSize 0.25 0 0
+   ConeAngle 0 0 0
+   MaxNum 999
+   BirthRate 15
+   BirthRateVel 1
+   Offset 0 0 0
+   Angles 0 0 0
+   LocalTransform 0
+   Material "{55020E0786F83004}Graphics/Particles/materials/smoke/smoke_anim_01.emat"
+   SizeMultiplier 0.6
+   SizeRND 0.1
+   RandomRotDir 1
+   RotMultiplier 0
+   RandomAngle 1
+   BillboardingType Full
+   Velocity 0
+   VelocityRND 0.25
+   VelAffect 0
+   AirResistance 0
+   AirResistanceRND 0
+   Wind 1
+   AnimFPS 30
+   LifeTime 2
+   LifeTimeRND 1.5
+   Color {
+    0 1 1 1 1 0.4557 0.4494 0.4114
+   }
+   Alpha {
+    0 0 0.0253 0.06329 1 0
+   }
+   RotationSpeed {
+    0 0 1 1
+   }
+   Size {
+    0 0.08228 0.49926 1 1 1
+   }
+   EffectTime 1
+   Repeat 1
+   AirResistanceMast {
+    0 1 1 1
+   }
+   VelocityMast {
+    0 1 1 0.49419
+   }
+  }
+ }
+}

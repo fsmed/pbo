@@ -1,0 +1,10 @@
+material "Graphics/Particles/materials/smoke/steam_small_cook_01.emat": ParticleSprite
+{
+	AlbedoMap "{00DB5AFE43BFC32C}Graphics/Particles/sprites/steam_cloud.edds"
+	Color "0.945098 0.945098 0.945098 1"
+	Diffuse "0.94902 0.94902 0.94902 1"
+	Ambient "0.588235 0.588235 0.588235 1"
+	Emissive "0.392157 0.392157 0.392157 0"
+	Softness 2
+}
+

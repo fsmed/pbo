@@ -1,0 +1,8 @@
+material "Graphics/Particles/materials/smoke/steam_small_roadflare_01.emat": ParticleSprite
+{
+	SortBias -1
+	AlbedoMap "{00DB5AFE43BFC32C}Graphics/Particles/sprites/steam_cloud.edds"
+	Emissive "1 1 1 0"
+	Softness 2
+}
+

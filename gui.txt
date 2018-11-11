@@ -1,0 +1,3 @@
+prefix=gui\
+product=dayz
+version=70814

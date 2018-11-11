@@ -1,0 +1,11 @@
+material "Graphics/Particles/materials/fire/sparks1.emat": Particle
+{
+	Sort translucent
+	AlbedoMap "{016B7879D4775122}Graphics/Particles/sprites/spark.edds" alpha
+	Color "0.000000 0.000000 0.000000 1.000000"
+	Ambient "0.000000 0.000000 0.000000 1.000000"
+	Emissive "1.000000 1.000000 1.000000 0.000000"
+	BlendMode 2
+	Softness 1
+}
+

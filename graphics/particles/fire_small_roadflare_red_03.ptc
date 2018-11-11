@@ -1,0 +1,51 @@
+EffectDef  {
+ Emitors {
+  EmitorDef red_smoke {
+   MaxNum 50
+   BirthRate 10
+   BirthRateVel 4
+   Material "{E1227D3E716A95EE}Graphics/Particles/materials/smoke/steam_small_roadflare_01.emat"
+   SizeMultiplier 0.6
+   RandomRotDir 1
+   RotMultiplier 50
+   RandomAngle 1
+   Sort 0
+   Velocity 1
+   Wind 1
+   LifeTime 0.5
+   LifeTimeRND 0.2
+   Color {
+    0 1 0.3098 0.102 0.4951 0.5294 0.1059 0.0706 1 0.149 0.1451 0.098
+   }
+   Alpha {
+    0 0 0.33792 0.80503 1 0
+   }
+   Size {
+    0 0 0.25071 0.50641 1 1
+   }
+  }
+  EmitorDef white_smoke {
+   MaxNum 40
+   BirthRate 20
+   BirthRateVel 5
+   Material "{E1227D3E716A95EE}Graphics/Particles/materials/smoke/steam_small_roadflare_01.emat"
+   SizeMultiplier 0.7
+   RandomRotDir 1
+   RotMultiplier 50
+   RandomAngle 1
+   Velocity 1
+   Wind 1
+   LifeTime 0
+   LifeTimeRND 0.5
+   Color {
+    0 0.3686 0.2118 0.2118 1 0.0667 0.0314 0.0235
+   }
+   Alpha {
+    0 0 0.17976 0.8805 0.6945 0.86164 1 0
+   }
+   Size {
+    0 0 0.17071 0.22436 1 0.42138
+   }
+  }
+ }
+}

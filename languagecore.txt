@@ -1,0 +1,3 @@
+prefix=languagecore\
+product=dayz
+version=70896

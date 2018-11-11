@@ -1,0 +1,75 @@
+EffectDef {
+ Emitors {
+  EmitorDef emitor1 {
+   ShapeType Ellipse
+   ShapeSize 0.3 0 0.3
+   ConeAngle 0 0 0
+   MaxNum 120
+   BirthRate 10
+   BirthRateRND 0
+   Material "{55020E0786F83004}Graphics/Particles/materials/smoke/smoke_anim_01.emat"
+   SizeMultiplier 0.5
+   RandomRotDir 1
+   RotMultiplier 45
+   VelAngle 0
+   RandomAngle 1
+   Sort 0
+   Velocity 0.3
+   VelocityRND 0.2
+   Wind 1
+   AnimOnce 0
+   AnimFPS 30
+   LifetimeByAnim 0
+   LifeTime 0.5
+   LifeTimeRND 0.5
+   Color {
+    0 0.8101 0.8101 0 1 1 1 1
+   }
+   Alpha {
+    0 0 0.24554 0.08228 1 0
+   }
+   RotationSpeed {
+    0 0 1 1
+   }
+   Size {
+    0 0.23418 1 1
+   }
+  }
+  EmitorDef emitor2 {
+   ShapeType Ellipse
+   ShapeSize 0.3 0 0.3
+   ConeAngle 90 -90 90
+   MaxNum 120
+   BirthRate 10
+   BirthRateRND 0
+   Angles 0 0 0
+   Material "{55020E0786F83004}Graphics/Particles/materials/smoke/smoke_anim_01.emat"
+   SizeMultiplier 2.5
+   RandomRotDir 1
+   RotMultiplier 45
+   VelAngle 0
+   RandomAngle 1
+   Sort 0
+   Velocity 0.1
+   VelocityRND 0.2
+   Wind 1
+   AnimOnce 0
+   AnimFPS 15
+   LifetimeByAnim 0
+   LifeTime 2
+   LifeTimeRND 4
+   Color {
+    0 1 1 0.7278 1 1 1 1
+   }
+   Alpha {
+    0 0 0.28125 0.06329 1 0
+   }
+   RotationSpeed {
+    0 1 1 1
+   }
+   Size {
+    0 0 0.32292 0.17089 1 1
+   }
+  }
+ }
+}

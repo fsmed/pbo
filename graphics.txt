@@ -1,0 +1,3 @@
+prefix=graphics\
+product=dayz
+version=70816

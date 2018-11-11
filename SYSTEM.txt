@@ -1,0 +1,3 @@
+prefix=system\
+product=dayz
+version=70649

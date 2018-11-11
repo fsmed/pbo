@@ -1,0 +1,10 @@
+material "Graphics/Particles/materials/fire/fire_flame_01.emat": ParticleSprite
+{
+	AlbedoMap "{93537F24953C167C}Graphics/Particles/sprites/fire_flames_01.edds"
+	Emissive "1 1 1 0"
+	BlendMode 2
+	TileU 3
+	TileV 3
+	Softness 1
+}
+

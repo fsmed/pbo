@@ -1,0 +1,14 @@
+MetaFileClass {
+ Name "{87624594DC95464}Graphics/Textures/postprocess/distant_rain.edds"
+ Author "fido"
+ ChangeDate -1494474202
+ Configurations {
+  DDSResourceClass PC {
+   SourceFile "distant_rain.dds"
+  }
+  DDSResourceClass XBOX_ONE : PC {
+  }
+  DDSResourceClass PS4 : PC {
+  }
+ }
+}
